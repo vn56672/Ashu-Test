@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 this is chutadss on emore ytes
 iiuytgchodqhwbiudht
 chutad to chutads
+=======
+this is chutadss on emore ytes
+iiuytgchodqhwbiudht
+Chutad to chutads
+>>>>>>> bad-branch
